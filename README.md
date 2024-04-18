@@ -6,4 +6,5 @@ Here you can find all the plotting macros I wrote and used for obtaining the res
 - **QAplay.C**: given the results obtained by QAplots.C, it plots the comparison of the projections of the quality assurance histograms for GlobalTracks, loose and tight cuts
 - **QA_plot_comparisons.C**: given the results obtained by QAplots.C, it plots the comparison of the quality assurance histograms for GlobalTracks, loose and tight cuts
 
-These tasks can be run inside the O2Physics environment by running: root *macro_name*
+These tasks can be run inside the O2Physics environment by running:  
+root *macro_name*
