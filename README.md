@@ -1,4 +1,5 @@
-The current repository contains the following plotting macros I used for obtaining the results presentend in my Experimental Physics's Master Thesis (link [here](https://studenttheses.uu.nl/handle/20.500.12932/46251)):
+# Welcome to my plotting macro repository ✨
+Here you can find all the plotting macros I wrote and used for obtaining the results presented in my Experimental Physics Master Thesis (link [here](https://studenttheses.uu.nl/handle/20.500.12932/46251)):
 - **LundPlots.C**: given the results obtained after having run the [jetLundDeclustering.cxx task](https://github.com/AliceO2Group/O2Physics/blob/master/PWGJE/Tasks/jetLundReclustering.cxx), it plots the Primary Lund plane in kT and z and its projections over the X and Y axes
 - **QAplots.C**: given the results obtained after having run the [trackJetqa.cxx task](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx), it converts the quality assurance histograms from THnSparse to TH1F, TH1D and TH2D histograms and plots their projections for GlobalTracks, loose and tight cuts
 - **QAplots_pT.C**: given the results obtained after having run the [trackJetqa.cxx task](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx), it plots the comparison of the pT histograms for GlobalTracks, loose and tight cuts
