@@ -5,3 +5,5 @@ Here you can find all the plotting macros I wrote and used for obtaining the res
 - **QAplots_pT.C**: given the results obtained after having run the [trackJetqa.cxx task](https://github.com/alicecaluisi/O2Physics/blob/master/PWGJE/Tasks/trackJetqa.cxx), it plots the comparison of the pT histograms for GlobalTracks, loose and tight cuts
 - **QAplay.C**: given the results obtained by QAplots.C, it plots the comparison of the projections of the quality assurance histograms for GlobalTracks, loose and tight cuts
 - **QA_plot_comparisons.C**: given the results obtained by QAplots.C, it plots the comparison of the quality assurance histograms for GlobalTracks, loose and tight cuts
+
+These tasks can be run inside the O2Physics environment by running: root *macro_name*
